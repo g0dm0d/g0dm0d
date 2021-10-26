@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0dm0d&custom_title=g0dm0d:&count_private=true&show_icons=true&theme=discord_old_blurple)
-![](https://komarev.com/ghpvc/?username=g0dm0d&label=PROFILE+VIEWS)
 
 ### Using
 
@@ -46,3 +45,6 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+![](https://komarev.com/ghpvc/?username=g0dm0d&label=PROFILE+VIEWS)
