@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0dm0d&custom_title=g0dm0d:&count_private=true&show_icons=true&theme=discord_old_blurple)
+![](https://komarev.com/ghpvc/?username=g0dm0d&label=PROFILE+VIEWS)
 
 ### Using
 
