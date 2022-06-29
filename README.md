@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0dm0d&custom_title=g0dm0d:&count_private=true&show_icons=true&theme=discord_old_blurple)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g0dm0d" alt="g0dm0d" /></a> </p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0dm0d&show_icons=true&locale=en&layout=compact" alt="g0dm0d" /></p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
